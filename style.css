@@ -8,7 +8,7 @@ body{
     /* flex-direction: column; */
     justify-content: center;
     align-items: center;
-    background-image: linear-gradient(90deg, orange, yellow, green);
+    background-image: linear-gradient(90deg, orange,black, yellow);
 }
 #main{
     margin-top: 200px;
@@ -26,7 +26,7 @@ body{
     justify-content: center;
     align-items: center;
     border-radius: 50%;
-    background-color: aquamarine;
+    background-color: cyan;
 }
 
 #shapeDiv{
@@ -41,7 +41,7 @@ button{
     width: 200px;
     border-radius: 10px;
     background-color: white;
-    border: 1px solid blue;
+    border: 1px solid black;
 }
 
 button:hover{
@@ -56,7 +56,7 @@ button:hover{
     height: 120px;
     width: 120px;
     border-radius: 50%;
-    background-color: antiquewhite;
+    background-color: purple;
 }
 
 #triangle{
